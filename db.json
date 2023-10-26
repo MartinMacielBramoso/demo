@@ -1,0 +1,47 @@
+{
+    "remitos": [
+      {
+        "id": 1,
+        "fechaLlegada": "2023-10-25T08:00:00",
+        "nroOrdenCompra": 1001,
+        "nroRemito": 2001,
+        "nombreProveedor": "Proveedor A",
+        "detalles": [
+          {
+            "id": 1,
+            "cantidad": 10,
+            "nombreProducto": "Producto 1",
+            "detalle": "Descripción del Producto 1"
+          },
+          {
+            "id": 2,
+            "cantidad": 5,
+            "nombreProducto": "Producto 2",
+            "detalle": "Descripción del Producto 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "fechaLlegada": "2023-10-24T10:30:00",
+        "nroOrdenCompra": 1002,
+        "nroRemito": 2002,
+        "nombreProveedor": "Proveedor B",
+        "detalles": [
+          {
+            "id": 1,
+            "cantidad": 8,
+            "nombreProducto": "Producto 3",
+            "detalle": "Descripción del Producto 3"
+          },
+          {
+            "id": 2,
+            "cantidad": 12,
+            "nombreProducto": "Producto 4",
+            "detalle": "Descripción del Producto 4"
+          }
+        ]
+      }
+    ]
+  }
+  
